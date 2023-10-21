@@ -1,10 +1,11 @@
 # H1 Groceries 
-Apple 
+Apples 
 Avocado
 Fish
 🐓 
-Walnuts
 Arabica Coffee
 Honey 🍯 
 Herbs
 Banana
+Mango
+Walnuts
